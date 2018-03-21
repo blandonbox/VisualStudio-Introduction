@@ -1,0 +1,10 @@
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe.config
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Debug\WindowsFormsExample.pdb
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.csprojResolveAssemblyReference.cache
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.Form1.resources
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.Properties.Resources.resources
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.GenerateResource.Cache
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.exe
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Debug\WindowsFormsExample.pdb

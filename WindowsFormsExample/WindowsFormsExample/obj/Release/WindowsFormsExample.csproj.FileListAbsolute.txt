@@ -1,0 +1,9 @@
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Release\WindowsFormsExample.exe.config
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Release\WindowsFormsExample.exe
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\bin\Release\WindowsFormsExample.pdb
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.Form1.resources
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.Properties.Resources.resources
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.csproj.GenerateResource.Cache
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.exe
+C:\Users\lhd\Documents\example\WindowsFormsExample\WindowsFormsExample\obj\Release\WindowsFormsExample.pdb
